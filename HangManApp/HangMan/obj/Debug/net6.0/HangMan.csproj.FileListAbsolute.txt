@@ -1,0 +1,15 @@
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\bin\Debug\net6.0\HangMan.exe
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\bin\Debug\net6.0\HangMan.deps.json
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\bin\Debug\net6.0\HangMan.runtimeconfig.json
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\bin\Debug\net6.0\HangMan.dll
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\bin\Debug\net6.0\HangMan.pdb
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\obj\Debug\net6.0\HangMan.csproj.AssemblyReference.cache
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\obj\Debug\net6.0\HangMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\obj\Debug\net6.0\HangMan.AssemblyInfoInputs.cache
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\obj\Debug\net6.0\HangMan.AssemblyInfo.cs
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\obj\Debug\net6.0\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\obj\Debug\net6.0\HangMan.dll
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\obj\Debug\net6.0\refint\HangMan.dll
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\obj\Debug\net6.0\HangMan.pdb
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\obj\Debug\net6.0\HangMan.genruntimeconfig.cache
+C:\Users\alexm\OneDrive\Desktop\C# Practice\HangManApp\HangMan\obj\Debug\net6.0\ref\HangMan.dll
